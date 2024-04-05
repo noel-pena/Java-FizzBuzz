@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 // If divisible by 5 = 'fizz'
-// if divisible by 3 = 'buzz'
-// if divisible by both 5 and 3 = 'fizzbuzz'
-// if not divisible by any you get the number
+// If divisible by 3 = 'buzz'
+// If divisible by both 5 and 3 = 'fizzbuzz'
+// If not divisible by any you get the number
 public class App {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
